@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//home/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/个人知识库/home/","dgPassFrontmatter":true}
 ---
 
 
