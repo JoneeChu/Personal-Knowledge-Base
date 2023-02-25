@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"//zrd/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"/个人知识库/zrd/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
