@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//eqwe/"}
+{"dg-publish":true,"permalink":"//eqwe/","dgPassFrontmatter":true}
 ---
 
 
